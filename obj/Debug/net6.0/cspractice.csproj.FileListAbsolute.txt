@@ -1,0 +1,15 @@
+D:\QA_Internship\CsPractice\cspractice\bin\Debug\net6.0\cspractice.exe
+D:\QA_Internship\CsPractice\cspractice\bin\Debug\net6.0\cspractice.deps.json
+D:\QA_Internship\CsPractice\cspractice\bin\Debug\net6.0\cspractice.runtimeconfig.json
+D:\QA_Internship\CsPractice\cspractice\bin\Debug\net6.0\cspractice.dll
+D:\QA_Internship\CsPractice\cspractice\bin\Debug\net6.0\cspractice.pdb
+D:\QA_Internship\CsPractice\cspractice\obj\Debug\net6.0\cspractice.csproj.AssemblyReference.cache
+D:\QA_Internship\CsPractice\cspractice\obj\Debug\net6.0\cspractice.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA_Internship\CsPractice\cspractice\obj\Debug\net6.0\cspractice.AssemblyInfoInputs.cache
+D:\QA_Internship\CsPractice\cspractice\obj\Debug\net6.0\cspractice.AssemblyInfo.cs
+D:\QA_Internship\CsPractice\cspractice\obj\Debug\net6.0\cspractice.csproj.CoreCompileInputs.cache
+D:\QA_Internship\CsPractice\cspractice\obj\Debug\net6.0\cspractice.dll
+D:\QA_Internship\CsPractice\cspractice\obj\Debug\net6.0\refint\cspractice.dll
+D:\QA_Internship\CsPractice\cspractice\obj\Debug\net6.0\cspractice.pdb
+D:\QA_Internship\CsPractice\cspractice\obj\Debug\net6.0\cspractice.genruntimeconfig.cache
+D:\QA_Internship\CsPractice\cspractice\obj\Debug\net6.0\ref\cspractice.dll
